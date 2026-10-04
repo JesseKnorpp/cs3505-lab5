@@ -7,5 +7,7 @@ std::string greeting(const std::string& name) {
 
 int main() {
     std::cout << greeting("Git user") << '\n';
+    std::cout << "Testing git" << "Testing again" << std::endl;
+
     return 0;
 }
