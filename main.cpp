@@ -10,9 +10,9 @@ int main()
 {
     std::cout << greeting("Git user") << '\n';
     std::cout << "Testing git" << "Testing again" << std::endl;
-    int i = 1;
+    int i = 10;
     int y = 2;
-    int j = 3;
+    int j = 10;
 
     return 0;
 }
